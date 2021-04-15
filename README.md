@@ -1,6 +1,6 @@
 <h3>
-  # TRVL-CA <br>
-  Travel website template.  Created using react with hooks.
+  # LOGIN-PAGE <br>
+  Just a sample of a login page, background is video when on desktop view.
 <h3>
 
 <h2>Phone Previews<h2>
